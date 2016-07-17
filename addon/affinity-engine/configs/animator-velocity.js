@@ -15,10 +15,7 @@ export default {
       effect: { opacity: 0 }
     },
     tweenEffect: {
-      opacity: {
-        from: 0,
-        to: 1
-      }
+      opacity: [1, 0]
     },
     tweenRate: 25
   },
