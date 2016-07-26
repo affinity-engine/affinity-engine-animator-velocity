@@ -1,23 +1,23 @@
 export default {
   priority: 1,
-  globals: {
-    transition: {
-      duration: 250,
-      effect: { opacity: 1 }
-    },
-    transitionDuration: 200,
-    transitionIn: {
-      duration: 250,
-      effect: { opacity: [1, 0] }
-    },
-    transitionOut: {
-      duration: 250,
-      effect: { opacity: 0 }
-    },
-    tweenEffect: {
+  transition: {
+    duration: 250,
+    effect: { opacity: 1 }
+  },
+  transitionDuration: 200,
+  transitionIn: {
+    duration: 250,
+    effect: { opacity: [1, 0] }
+  },
+  transitionOut: {
+    duration: 250,
+    effect: { opacity: 0 }
+  },
+  lxlTransition: {
+    effect: {
       opacity: [1, 0]
     },
-    tweenRate: 25
+    rate: 25
   },
   'affinity-engine': {
     'animator': {
