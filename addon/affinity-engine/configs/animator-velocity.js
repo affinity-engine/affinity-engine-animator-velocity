@@ -1,5 +1,6 @@
 export default {
   priority: 1,
+  animationLibrary: 'velocity',
   transition: {
     duration: 250,
     effect: { opacity: 1 }
@@ -21,8 +22,7 @@ export default {
   },
   'affinity-engine': {
     'animator': {
-      path: 'service:affinity-engine/animator-velocity',
-      name: 'velocity'
+      path: 'service:affinity-engine/animator-velocity'
     }
   }
 };
