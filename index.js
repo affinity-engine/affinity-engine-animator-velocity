@@ -5,8 +5,6 @@ var path = require('path');
 var mergeTrees = require('broccoli-merge-trees');
 var pickFiles = require('broccoli-static-compiler');
 
-var count = 0;
-
 function findRoot(current) {
   var app;
 
