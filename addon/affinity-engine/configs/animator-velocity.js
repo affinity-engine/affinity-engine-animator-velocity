@@ -1,5 +1,5 @@
 export default {
-  priority: 1,
+  priority: 2,
   global: {
     animationLibrary: 'velocity',
     transition: {
