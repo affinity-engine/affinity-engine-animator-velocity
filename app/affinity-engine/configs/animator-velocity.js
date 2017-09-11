@@ -1,1 +1,1 @@
-export { default } from 'affinity-engine-animator-velocity/affinity-engine/configs/animator-velocity';
+export { default } from 'affinity-engine-plugin-animator-velocity/affinity-engine/configs/animator-velocity';

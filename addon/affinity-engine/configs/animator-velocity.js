@@ -1,6 +1,6 @@
 export default {
   priority: 2,
-  global: {
+  children: {
     attrs: {
       animator: 'velocity',
       transition: {

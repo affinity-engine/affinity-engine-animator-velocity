@@ -1,5 +1,5 @@
 {
-  "name": "affinity-engine-animator-velocity",
+  "name": "affinity-engine-plugin-animator-velocity",
   "version": "0.2.0",
   "description": "An Affinity Engine animation adapter for Velocity.js",
   "keywords": [
@@ -14,7 +14,7 @@
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "https://github.com/affinity-engine/affinity-engine-animator-velocity",
+  "repository": "https://github.com/affinity-engine/affinity-engine-plugin-animator-velocity",
   "scripts": {
     "build": "ember build",
     "start": "ember server",

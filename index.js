@@ -18,7 +18,7 @@ function findRoot(current) {
 }
 
 module.exports = {
-  name: 'affinity-engine-animator-velocity',
+  name: 'affinity-engine-plugin-animator-velocity',
 
   treeForVendor: function(){
     var _this = this;
