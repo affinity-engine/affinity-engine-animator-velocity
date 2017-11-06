@@ -1,6 +1,6 @@
 {
   "name": "affinity-engine-plugin-animator-velocity",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "An Affinity Engine animation adapter for Velocity.js",
   "keywords": [
     "ember-addon",
@@ -53,7 +53,7 @@
   },
   "ember-addon": {
     "configPath": "tests/dummy/config",
-    "demoURL": "http://www.ember.engine/learn/director",
+    "demoURL": "http://www.affinityengine.org/#/api/plugins/animator-velocity",
     "after": [
       "affinity-engine"
     ]
